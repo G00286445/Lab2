@@ -1,0 +1,3 @@
+npn install -g typescript
+
+C:\Users\g00286445\AppData\Roaming\npm\tsc
